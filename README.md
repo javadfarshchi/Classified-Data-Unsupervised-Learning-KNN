@@ -10,4 +10,4 @@ Here, we will see more information on the dataset and a pairplot of the target c
 
 ![k_vs_error](https://github.com/javadfarshchi/Classified-Data-Unsupervised-Learning-KNN/blob/main/k_vs_error.png)
 
-![evaluation](https://github.com/javadfarshchi/Classified-Data-Unsupervised-Learning-KNN/blob/main/knn_eval.PNG)
+![evaluation](https://github.com/javadfarshchi/Classified-Data-Unsupervised-Learning-KNN/blob/main/eval_knn.PNG)
