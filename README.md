@@ -4,10 +4,10 @@ In this project, we assume that we are given a classified data set and we will u
 
 Here, we will see more information on the dataset and a pairplot of the target column and the columns.
 
-[dataset](https://github.com/javadfarshchi/Classified-Data-Unsupervised-Learning-KNN/blob/main/knn_head.PNG)
+![dataset](https://github.com/javadfarshchi/Classified-Data-Unsupervised-Learning-KNN/blob/main/knn_head.PNG)
 
-[pairplot]()
+![pairplot](https://github.com/javadfarshchi/Classified-Data-Unsupervised-Learning-KNN/blob/main/pairplot_hue_target.png)
 
-[k_vs_error]()
+![k_vs_error](https://github.com/javadfarshchi/Classified-Data-Unsupervised-Learning-KNN/blob/main/k_vs_error.png)
 
-[evaluation](https://github.com/javadfarshchi/Classified-Data-Unsupervised-Learning-KNN/blob/main/knn_eval.PNG)
+![evaluation](https://github.com/javadfarshchi/Classified-Data-Unsupervised-Learning-KNN/blob/main/knn_eval.PNG)
